@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courgette', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.navbar{
+    margin: 20px;
+}
+.heading .content{
+    margin-left: 05%;
+}
+
+.heading .head{
+    width: 400px;
+}
+.heading .lead{
+    width: 470px;
+}
+
+.heading .btn1{
+    background-color: transparent;
+    border: 2px solid black; 
+    border-radius: 60px;
+    width: 150px;
+    height: 50px;
+    color: blue;
+}
+.heading .logo{
+    height: 80px;
+    width: 80px;
+}
+.camping{
+    margin-left: 2%
+}
+.hiking .lead{
+    width: 370px;
+    height: 50px;
+} 
